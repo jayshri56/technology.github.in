@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /* box-sizing: border-box; */
+}
+.bg {
+    background-image: url('../img/sign.jpg');
+    background-repeat:  no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+
+    
+}
+.login_form {
+    /* position: absolute;
+    top: 15vh; */
+     background: #fff; 
+    padding: 30px;
+    box-shadow: 0px 0px 10px 0px #000;    
+    border-radius: 10px;
+    /* padding-bottom: 5px; */
+}
+.img-jmbo {
+    margin-top: 55px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../img/phpdata.jpg');
+    background-size: 100%,100%;
+}
+.img-jmboi {
+    margin-top: 55px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../img/javahead.jpg');
+    background-size: 100%,100%;
+}
+
+
+
+
